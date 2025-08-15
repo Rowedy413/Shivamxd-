@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Task file (optional, agar Railway me local persist nahi chahiye)
+tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
